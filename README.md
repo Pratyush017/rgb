@@ -1,2 +1,2 @@
-# rgb
-enjoy changing colours with moving your cursor
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
